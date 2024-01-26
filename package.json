@@ -1,0 +1,17 @@
+{
+  "name": "climaconsulta",
+  "version": "1.0.0",
+  "description": "Informacion delc lima",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "autor",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "chalk": "^5.3.0"
+  }
+}
